@@ -1,6 +1,6 @@
 <!-- Заголовок с анимацией -->
-<h1 align="center" style="color: #6E40C9; font-size: 36px;">sup 👋, I'm Valera</h1>
-<h3 align="center" style="color: #6E40C9; font-weight: normal;">CS student from Moscow, nonchalant ahh dude</h3>
+<h1 align="center" style="color: 6E40C9; font-size: 36px;">sup 👋, I'm Valera</h1>
+<h3 align="center" style="color: 6E40C9; font-weight: normal;">CS student from Moscow, nonchalant ahh dude</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=guguker&label=Profile%20views&color=a55cd6&style=flat" alt="guguker" />
