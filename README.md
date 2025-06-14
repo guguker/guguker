@@ -11,8 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=guguker&label=Profile%20views&color=a55cd6&style=flat" alt="guguker" />
 </p>
 
-<br/>
-
 - 🛠 currently working on **akinator game build on neural-network**
 
 - 🤓 currently learning **pandas, numpy, seaborn, pytorch, sql stuff**
@@ -20,8 +18,6 @@
 - 👾 all of my projects are available [here](https://github.com/guguker?tab=repositories)
 
 - ❗️ fun fact - **nearly a hater of c++, xd**
-
-<br/>
 
 <h3 align="left" style="font-size: 22px;">Connect with me:</h3>
 <p align="left">
