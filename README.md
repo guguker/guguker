@@ -30,8 +30,6 @@
   </a>
 </p>
 
-<br/>
-
 <h3 align="left" style="font-size: 22px;">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
