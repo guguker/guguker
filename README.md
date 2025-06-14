@@ -22,11 +22,11 @@
 <h3 align="left" style="font-size: 24px;">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/guguskk" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="guguskk" height="50" width="50" style="margin-right: 70px;" />
+    <img align="center" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="guguskk" height="40" width="40" style="margin-right: 70px;" />
   </a>
   
   <a href="https://instagram.com/valerizentner" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerizentner" height="50" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerizentner" height="40" width="40" />
   </a>
 </p>
 
@@ -53,19 +53,19 @@
   </a>
   
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="margin-right: 40px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="margin-right: 70px;" />
   </a>
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" style="margin-right: 40px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" style="margin-right: 70px;" />
   </a>
   
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50" style="margin-right: 40px;" />
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50" style="margin-right: 70px;" />
   </a>
   
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50" style="margin-right: 40px;" />
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50" style="margin-right: 70px;" />
   </a>
   
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
