@@ -1,11 +1,6 @@
 <!-- Заголовок с анимацией -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=sup+%F0%9F%91%8B%2C+I'm+Valera" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=CCS+student+from+Moscow%2C+nonchalant+ahh+dudee" alt="Typing subtext" />
-</h3>
+<h1 align="center" style="color: #6E40C9; font-size: 36px;">sup 👋, I'm Valera</h1>
+<h3 align="center" style="color: #6E40C9; font-weight: normal;">CS student from Moscow, nonchalant ahh dude</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=guguker&label=Profile%20views&color=a55cd6&style=flat" alt="guguker" />
