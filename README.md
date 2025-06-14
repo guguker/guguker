@@ -1,11 +1,7 @@
 <!-- Заголовок с анимацией -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=sup+%F0%9F%91%8B%2C+I'm+Valera" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=sup+%F0%9F%91%8B%2C+I'm+Valera <br/> CS student from Moscow" alt="Typing SVG" />
 </h1>
-
-<h3 align="center" style="font-family: 'Fira Code', monospace; font-weight: 400; font-size: 26px; color:#6E40C9;">
-  CS student from Moscow
-</h3>
 
 <h3 align="left" style="font-size: 24px;">Humdrum info:</h3>
 
