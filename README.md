@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=9DFDFF&center=true&vCenter=true&width=500&lines=CS+student+from+Moscow%2C+nonchalant+ahh+dude" alt="Typing subtext" />
 </h3>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=guguker&label=Profile%20views&color=a55cd6&style=flat" alt="guguker" />
 </p>
 
@@ -19,7 +19,7 @@
 <h3 style="font-size: 20px;">🤓 currently learning</h3>
 <p>**pandas, numpy, seaborn, pytorch, sql stuff**</p>
 
-<h3 style="font-size: 20px;">👾 all of my projects</h3>
+<h3 style="font-size: 20px;">👾 all of my projects available [here](https://github.com/guguker?tab=repositories)</h3>
 <p>available [here](https://github.com/guguker?tab=repositories)</p>
 
 <h3 style="font-size: 20px;">❗️ fun fact</h3>
