@@ -8,6 +8,7 @@
 </h3>
 
 <h3 align="left" style="font-size: 22px;">My humdrum:</h3>
+
 - 🛠 currently working on **akinator game build on neural-network**
 
 - 🤓 currently learning **pandas, numpy, seaborn, pytorch, sql stuff**
