@@ -3,11 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=sup+%F0%9F%91%8B%2C+I'm+Valera" alt="Typing SVG" />
 </h1>
 
-<h3 align="center" style="font-family: 'Fira Code', monospace; font-weight: 400; font-size: 24px; color:#6E40C9;">
+<h3 align="center" style="font-family: 'Fira Code', monospace; font-weight: 400; font-size: 26px; color:#6E40C9;">
   CS student from Moscow, nonchalant ahh dudee
 </h3>
 
-<h3 align="left" style="font-size: 22px;">humdrum info:</h3>
+<h3 align="left" style="font-size: 24px;">humdrum info:</h3>
 
 - 🛠 currently working on **akinator game build on neural-network**
 
@@ -19,57 +19,57 @@
 
 - ❗️ fun fact - **nearly a hater of c++, xd**
 
-<h3 align="left" style="font-size: 22px;">Connect with me:</h3>
+<h3 align="left" style="font-size: 24px;">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/guguskk" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="guguskk" height="30" width="30" style="margin-right: 20px;" />
+    <img align="center" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="guguskk" height="50" width="50" style="margin-right: 40px;" />
   </a>
   
   <a href="https://instagram.com/valerizentner" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerizentner" height="30" width="30" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerizentner" height="50" width="50" />
   </a>
 </p>
 
-<h3 align="left" style="font-size: 22px;">My skills:</h3>
+<h3 align="left" style="font-size: 24px;">My skills:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 40px;" />
   </a>
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" style="margin-right: 40px;" />
   </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="margin-right: 40px;" />
   </a>
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" style="margin-right: 40px;" />
   </a>
   
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50" style="margin-right: 40px;" />
   </a>
   
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="margin-right: 40px;" />
   </a>
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" style="margin-right: 40px;" />
   </a>
   
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50" style="margin-right: 40px;" />
   </a>
   
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50" style="margin-right: 40px;" />
   </a>
   
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50" />
   </a>
 </p>
 
