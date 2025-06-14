@@ -3,11 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=sup+%F0%9F%91%8B%2C+I'm+Valera" alt="Typing SVG" />
 </h1>
 
-<h3 align="center" style="font-family: 'Fira Code', monospace; font-weight: 400; font-size: 24px; color:6E40C9;">
+<h3 align="center" style="font-family: 'Fira Code', monospace; font-weight: 400; font-size: 24px; color:#6E40C9;">
   CS student from Moscow, nonchalant ahh dudee
 </h3>
-
-![CS student from Moscow](https://img.shields.io/badge/CS%20student%20from%20Moscow-6E40C9?style=flat&logo=appveyor&logoColor=white)
 
 <h3 align="left" style="font-size: 22px;">My humdrum:</h3>
 
