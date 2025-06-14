@@ -7,6 +7,8 @@
   CS student from Moscow, nonchalant ahh dudee
 </h3>
 
+![CS student from Moscow](https://img.shields.io/badge/CS%20student%20from%20Moscow-6E40C9?style=flat&logo=appveyor&logoColor=white)
+
 <h3 align="left" style="font-size: 22px;">My humdrum:</h3>
 
 - 🛠 currently working on **akinator game build on neural-network**
