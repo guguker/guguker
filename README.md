@@ -7,7 +7,7 @@
   CS student from Moscow, nonchalant ahh dudee
 </h3>
 
-<h3 align="left" style="font-size: 22px;">My humdrum:</h3>
+<h3 align="left" style="font-size: 22px;">humdrum info:</h3>
 
 - 🛠 currently working on **akinator game build on neural-network**
 
