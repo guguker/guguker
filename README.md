@@ -9,7 +9,7 @@
 
 - 🤓 currently learning **pandas, numpy, seaborn, pytorch, sql stuff**
 
-- 👾 all of my projects are available at [https://github.com/guguker?tab=repositories](https://github.com/guguker?tab=repositories)
+- 👾 all of my projects are available [here](https://github.com/guguker?tab=repositories)
 
 - ❗️ fun fact - **nearly a hater of c++, xd**
 
