@@ -1,10 +1,10 @@
 <!-- Заголовок с анимацией -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=A55CD6&center=true&vCenter=true&width=435&lines=sup+%F0%9F%91%8B%2C+I'm+Valera" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=sup+%F0%9F%91%8B%2C+I'm+Valera" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=9DFDFF&center=true&vCenter=true&width=500&lines=CS+student+from+Moscow%2C+nonchalant+ahh+dude" alt="Typing subtext" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=CCS+student+from+Moscow%2C+nonchalant+ahh+dudee" alt="Typing subtext" />
 </h3>
 
 <p align="center"> 
