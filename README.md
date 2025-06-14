@@ -1,20 +1,36 @@
-<h1 align="center">sup 👋, I'm Valera</h1>
-<h3 align="center">CS student from Moscow, nonchalant ahh dude</h3>
+<!-- Заголовок с анимацией -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=A55CD6&center=true&vCenter=true&width=435&lines=sup+%F0%9F%91%8B%2C+I'm+Valera" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guguker&label=Profile%20views&color=a55cd6&style=flat" alt="guguker" /> </p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=9DFDFF&center=true&vCenter=true&width=500&lines=CS+student+from+Moscow%2C+nonchalant+ahh+dude" alt="Typing subtext" />
+</h3>
 
-- 🛠 currently working on **akinator game build on neural-network**
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=guguker&label=Profile%20views&color=a55cd6&style=flat" alt="guguker" />
+</p>
 
-- 🤓 currently learning **pandas, numpy, seaborn, pytorch, sql stuff**
+<br/>
 
-- 👾 all of my projects are available [here](https://github.com/guguker?tab=repositories)
+<h3 style="font-size: 20px;">🛠 currently working on</h3>
+<p>**akinator game build on neural-network**</p>
 
-- ❗️ fun fact - **nearly a hater of c++, xd**
+<h3 style="font-size: 20px;">🤓 currently learning</h3>
+<p>**pandas, numpy, seaborn, pytorch, sql stuff**</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 style="font-size: 20px;">👾 all of my projects</h3>
+<p>available [here](https://github.com/guguker?tab=repositories)</p>
+
+<h3 style="font-size: 20px;">❗️ fun fact</h3>
+<p>**nearly a hater of c++, xd**</p>
+
+<br/>
+
+<h3 align="left" style="font-size: 22px;">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/guguskk" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="guguskk" height="30" width="30" style="margin-right: 10px;" />
+    <img align="center" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="guguskk" height="30" width="30" style="margin-right: 20px;" />
   </a>
   
   <a href="https://instagram.com/valerizentner" target="_blank">
@@ -22,42 +38,44 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+
+<h3 align="left" style="font-size: 22px;">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 20px;" />
   </a>
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 20px;" />
   </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 20px;" />
   </a>
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin-right: 20px;" />
   </a>
   
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" style="margin-right: 20px;" />
   </a>
   
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 20px;" />
   </a>
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 20px;" />
   </a>
   
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="margin-right: 20px;" />
   </a>
   
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="margin-right: 20px;" />
   </a>
   
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
@@ -65,6 +83,16 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guguker&show_icons=true&theme=tokyonight&locale=en" alt="guguker" /></p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guguker&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="guguker" /></p>
+<!-- GitHub stats -->
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guguker&show_icons=true&theme=tokyonight&locale=en" alt="guguker" />
+</p>
+
+<br/>
+
+<!-- Most used languages -->
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guguker&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="guguker" />
+</p>
