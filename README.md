@@ -13,10 +13,11 @@
 
 - 💬 main option to contact me **tg : guguskk or inst: valerizentner**
 
-- fun fact **nearly a hater of c++, xd**
+- ❗️ fun fact - **nearly a hater of c++, xd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://t.me/guguskk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="guguskk" height="30" width="40" /></a>
 <a href="https://instagram.com/valerizentner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerizentner" height="30" width="40" /></a>
 </p>
 
