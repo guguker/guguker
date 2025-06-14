@@ -1,9 +1,6 @@
 <!-- Заголовок с анимацией -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=sup+%F0%9F%91%8B%2C+I'm+Valera!" alt="Typing SVG" />
-</h1>
-
-<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=CS+student+from+Moscow" alt="Typing SVG" />
 </h1>
 
