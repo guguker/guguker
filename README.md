@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://t.me/guguskk" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="guguskk" height="30" width="40" />
+  <a href="https://t.me/guguskk" target="_blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/telegram.png" alt="guguskk" height="30" width="30" />
   </a>
-  <a href="https://instagram.com/valerizentner" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerizentner" height="30" width="40" />
+  <a href="https://instagram.com/valerizentner" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerizentner" height="30" width="30" />
   </a>
 </p>
 
