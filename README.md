@@ -14,8 +14,6 @@
 
 - 👨🏻‍💻 ready for probation and co-work projects
 
-- ❗️ fun fact - **nearly a hater of c++, xd**
-
 <h3 align="left" style="font-size: 24px;">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/guguskk" target="_blank">
