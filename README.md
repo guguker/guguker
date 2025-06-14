@@ -13,17 +13,13 @@
 
 <br/>
 
-<h3 style="font-size: 20px;">🛠 currently working on</h3>
-<p>**akinator game build on neural-network**</p>
+- 🛠 currently working on **akinator game build on neural-network**
 
-<h3 style="font-size: 20px;">🤓 currently learning</h3>
-<p>**pandas, numpy, seaborn, pytorch, sql stuff**</p>
+- 🤓 currently learning **pandas, numpy, seaborn, pytorch, sql stuff**
 
-<h3 style="font-size: 20px;">👾 all of my projects available [here](https://github.com/guguker?tab=repositories)</h3>
-<p>available [here](https://github.com/guguker?tab=repositories)</p>
+- 👾 all of my projects are available [here](https://github.com/guguker?tab=repositories)
 
-<h3 style="font-size: 20px;">❗️ fun fact</h3>
-<p>**nearly a hater of c++, xd**</p>
+- ❗️ fun fact - **nearly a hater of c++, xd**
 
 <br/>
 
