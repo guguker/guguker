@@ -4,9 +4,10 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=ccccCS+student+from+Moscow%2C+nonchalant+ahh+dudee" alt="Typing subtext" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=cccccCS+student+from+Moscow%2C+nonchalant+ahh+dudee" alt="Typing subtext" />
 </h3>
 
+<h3 align="left" style="font-size: 22px;">my casualty</h3>
 - 🛠 currently working on **akinator game build on neural-network**
 
 - 🤓 currently learning **pandas, numpy, seaborn, pytorch, sql stuff**
