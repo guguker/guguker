@@ -16,8 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/guguskk" target="_blank">
-    <img align="center" src="[https://img.icons8.com/ios-filled/50/000000/telegram.png](https://img.icons8.com/color/48/000000/telegram-app--v1.png
-)" alt="guguskk" height="30" width="30" />
+    <img align="center" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="guguskk" height="30" width="30" />
   </a>
   <a href="https://instagram.com/valerizentner" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerizentner" height="30" width="30" />
