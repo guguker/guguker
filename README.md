@@ -7,16 +7,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=cccccCS+student+from+Moscow%2C+nonchalant+ahh+dudee" alt="Typing subtext" />
 </h3>
 
-<h3 align="left" style="font-size: 22px;">my casualty</h3>
+<h3 align="left" style="font-size: 22px;">My humdrum:</h3>
 - 🛠 currently working on **akinator game build on neural-network**
 
 - 🤓 currently learning **pandas, numpy, seaborn, pytorch, sql stuff**
 
 - 👾 all of my projects are available [here](https://github.com/guguker?tab=repositories)
 
+- 👨🏻‍💻 ready for probation and co-work projects
+
 - ❗️ fun fact - **nearly a hater of c++, xd**
 
-<h3 align="left" style="font-size: 22px;">connect with me:</h3>
+<h3 align="left" style="font-size: 22px;">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/guguskk" target="_blank">
     <img align="center" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="guguskk" height="30" width="30" style="margin-right: 20px;" />
@@ -27,7 +29,7 @@
   </a>
 </p>
 
-<h3 align="left" style="font-size: 22px;">my skills:</h3>
+<h3 align="left" style="font-size: 22px;">My skills:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 20px;" />
