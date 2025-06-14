@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center" style="font-family: 'Fira Code', monospace; font-weight: 400; font-size: 26px; color:#6E40C9;">
-  CS student from Moscow, nonchalant ahh dudee
+  CS student from Moscow
 </h3>
 
 <h3 align="left" style="font-size: 24px;">Humdrum info:</h3>
