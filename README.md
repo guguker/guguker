@@ -6,7 +6,7 @@
 
 <h3 align="left" style="font-size: 24px;">Humdrum info:</h3>
 
-- 🛠 currently working on **game based on arduino and Flet**
+- 🛠 currently working on **astrology tg-bot**
 
 - 🤓 currently learning **pandas, numpy, seaborn, pytorch, sql stuff**
 
